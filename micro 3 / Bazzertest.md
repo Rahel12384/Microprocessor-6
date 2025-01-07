@@ -92,7 +92,7 @@ void loop() {
 
 
  ## شماتیک مدار:
-![توضیح تصویر](https://github.com/Rahel12384/Microprocessor-6/blob/main/micro%203%20/%206666.png
+![توضیح تصویر](https://github.com/Rahel12384/Microprocessor-6/blob/main/micro%203%20/%206666.png)
 
 
 ## خروجی آزمایش:
